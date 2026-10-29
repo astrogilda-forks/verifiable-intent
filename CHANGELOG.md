@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-_No unreleased changes._
+### Added
+
+- Protocol landscape page on execution evidence, with a test that binds an executed
+  checkout to its L3 commitment using the pinned `agent-evidence-vectors` package,
+  and a Dependabot configuration
 
 ## [0.1.0] - 2026-02-19
 

@@ -24,6 +24,11 @@ field (not a constraint). Reverse
 mappings list UCP/AP2 and ACP terms that have no VI equivalent, with explanations
 of why.
 
+The [Execution Evidence](execution-evidence.md) page maps the L3 checkout commitment
+onto an approval-binding record, so a verifier can check that the checkout that ran
+is the checkout the chain committed to. A test in `tests/` runs that check through
+a pinned third-party reader.
+
 ## Contributing
 
 To propose an integration mapping for a new protocol:

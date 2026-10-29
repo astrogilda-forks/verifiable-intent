@@ -20,6 +20,7 @@ nav:
     - Overview: protocol-landscape/index.md
     - Protocol Ecosystem: protocol-landscape/protocols.md
     - Cross-Protocol Glossary: protocol-landscape/glossary.md
+    - Execution Evidence: protocol-landscape/execution-evidence.md
   - Community:
     - Contributing: CONTRIBUTING.md
     - Code of Conduct: CODE_OF_CONDUCT.md
